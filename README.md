@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm ling101 👋</h1>
 
 <p align="center">
-  <b>Undergraduate @ Northeast Normal University</b> <br>
+  <b></b> <br>
   Cyber Security / Web Security / Code Audit / AI Security
 </p>
 
